@@ -21,3 +21,10 @@ Et enkelt eksempel på anvendelse af pandas
 
 Eksempel på parsing af CLI parametre med modulet argparse
 
+## mappen taskdemo
+
+eksempler på parsing af CLI parametre og anvendelse af configurationsfil.
+
+- prepare_task.py anvender konfig fil som overskriver evt parametre angivet på command line
+
+- prepare_output.py sende default output til stdout og kan sende til en fil
