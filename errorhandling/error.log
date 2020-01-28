@@ -1,0 +1,8 @@
+2020-01-28 16:09:28,011 root INFO Dividing 4 between 0
+2020-01-28 16:09:28,012 root ERROR Error running task
+Traceback (most recent call last):
+  File "errordemo.py", line 34, in <module>
+    main(args.n1, args.n2, args.output)
+  File "errordemo.py", line 12, in main
+    result = number / other_number
+ZeroDivisionError: division by zero
