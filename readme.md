@@ -1,6 +1,8 @@
 # projekt training
 
-projektet anvender et virtuelt environment
+projektet anvender et virtuelt environment, som konfigureres med
+
+    pip install -r requirements.txt
 
 ## Visual Studio Code
 
